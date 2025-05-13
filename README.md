@@ -1,1 +1,1 @@
-# prueba-githubSEG
+Repositorio de prueba práctica de GitHub
